@@ -1,7 +1,7 @@
 # VVS
 
 Pescaru Alexnadru-Mihai
-grupa Marti ora 14-16
+grupa Marti ora 14-15
 
 in folderul "alte printscreenuri" se afla un printscreen cu rularea testelor Web, cu driver selenium, pentru orice eventualitate.
 
